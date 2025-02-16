@@ -34,7 +34,6 @@ public class VolatileBlast extends CombustionAbility implements AddonAbility, Su
     private boolean controllable;
     private int weight;
     private int tick;
-
     Location location, origin;
 
     public VolatileBlast(Player player) {

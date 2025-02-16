@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/AmberPack.iml" filepath="$PROJECT_DIR$/.idea/AmberPack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AmberPack.iml" filepath="$PROJECT_DIR$/.idea/modules/AmberPack.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/AmberPack.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AmberPack.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/AmberPack.test.iml" filepath="$PROJECT_DIR$/.idea/modules/AmberPack.test.iml" />
     </modules>

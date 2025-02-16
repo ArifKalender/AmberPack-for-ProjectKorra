@@ -8,6 +8,7 @@ import java.util.List;
 public class Utilities {
 
     public static List<Location> generateCircle(Location center, double radius, int points) {
+
         List<Location> locations = new ArrayList<>();
         double angleIncrement = 2 * Math.PI / points;
 

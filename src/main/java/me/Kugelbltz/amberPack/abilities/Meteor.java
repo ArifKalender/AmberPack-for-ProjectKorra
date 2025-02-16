@@ -39,7 +39,6 @@ public class Meteor extends CombustionAbility implements AddonAbility, SubAbilit
     private double blockDamageRadius;
     @Attribute(Attribute.SPEED)
     private double speed;
-
     private boolean isControllable;
     Location location, forHalf, forQuarter, origin, forEightQuarter;
     BlockDisplay inner, middle, outer;

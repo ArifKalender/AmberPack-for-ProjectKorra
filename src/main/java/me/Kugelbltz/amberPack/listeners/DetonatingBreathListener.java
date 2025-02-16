@@ -14,6 +14,7 @@ public class DetonatingBreathListener implements Listener {
             BendingPlayer bPlayer = BendingPlayer.getBendingPlayer(event.getPlayer());
             if (bPlayer.getBoundAbilityName().equalsIgnoreCase("DetonatingBreath")) {
                 new DetonatingBreath(event.getPlayer());
+
             }
         }
     }

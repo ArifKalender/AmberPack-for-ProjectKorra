@@ -39,7 +39,6 @@ public class DetonatingBreath extends CombustionAbility implements AddonAbility,
     int particleAmount;
     double particleSpeed;
     private double dissipation = 1.7;
-
     private long startTime;
     Location location, origin, target;
 

@@ -31,7 +31,6 @@ public class BlazingInferno extends CombustionAbility implements ComboAbility, S
     @Attribute(Attribute.RADIUS)
     double radius;
     double particleSpeed;
-
     Location centre;
 
     public BlazingInferno(Player player) {

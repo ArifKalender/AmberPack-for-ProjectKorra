@@ -13,6 +13,7 @@ public class VolatileBlastListener implements Listener {
         if (event.getPlayer().isSneaking()) {
             BendingPlayer bPlayer = BendingPlayer.getBendingPlayer(event.getPlayer());
             if (bPlayer.getBoundAbilityName().equalsIgnoreCase("VolatileBlast")) {
+
                 new VolatileBlast(event.getPlayer());
             }
         }
